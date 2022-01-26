@@ -10,7 +10,7 @@
   - whatFont
   - Page Ruler
 
-# #1. le cashmere
+# le cashmere
 
 ![Screenshot from 2022-01-26 17-44-41](https://user-images.githubusercontent.com/92058864/151131010-f53ef9ec-da42-4fda-afa6-e8ae5b4a0304.png)
 
